@@ -1,8 +1,8 @@
 # Hi Folks, I'm Mohammed Sahil 👋
 
 ## 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhdsahil-1&theme=github-dark)](https://github.com/mhdsahil-1)
 
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhdsahil-1&theme=github-dark&hide_border=true)](https://github.com/mhdsahil-1)
 
 ## 🌐 Socials
 
