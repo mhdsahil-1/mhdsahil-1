@@ -6,7 +6,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhdsahil-1/mhdsahil-1/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/mhdsahil-1/mhdsahil-1/output/github-snake.svg" alt="GitHub Contribution Snake">
 </picture>
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhdsahil-1&theme=github-dark)](https://github.com/mhdsahil-1)
 
 
 ## 🌐 Socials
