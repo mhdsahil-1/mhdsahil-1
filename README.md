@@ -10,8 +10,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](YOUR_PORTFOLIO_URL)
+
 
 ## 💻 Tech Stack
 
