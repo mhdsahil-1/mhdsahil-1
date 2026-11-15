@@ -1,7 +1,7 @@
 # Hi Folks, I'm Mohammed Sahil 👋
 
 
-## 🌐 Socials
+
 
 
 
