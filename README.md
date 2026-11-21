@@ -1,101 +1,83 @@
-<div align="center">
+## 👨‍💻 A Little About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohammed%20Sahil%20B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%"/>
+\<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+things+that+solve+problems.;Exploring+AI+%26+Software+Engineering.;Learning.+Experimenting.+Building." />
+### Mohammed Sahil B
 
-<br>
+**Developer · Builder · Problem Solver**
 
-[![GitHub](https://img.shields.io/badge/GitHub-mhdsahil--1-181717?style=flat-square&logo=github)](https://github.com/mhdsahil-1)
-![Profile Views](https://komarev.com/ghpvc/?username=mhdsahil-1&style=flat-square&color=blue)
+I enjoy turning ideas into working software, exploring how systems work, and building solutions to real-world problems.
 
-</div>
+\</div>
 
----
+\<table align="center"> \<tr> \<td align="center" width="50%">
 
-## `$ whoami`
+**🎯 WHAT I EXPLORE**
 
-```yaml
-name: Mohammed Sahil B
-role: Developer
-interests:
-  - Software Engineering
-  - Artificial Intelligence
-  - Backend Development
-  - Cybersecurity
-  - Building Real-World Solutions
+Software Engineering
 
-currently: Learning, experimenting & building
-philosophy: "Understand the system. Build the solution."
-```
+Artificial Intelligence
 
----
+Backend Development
 
-## ⚡ The Developer Toolkit
+Cybersecurity
 
+\</td> \<td align="center" width="50%">
 
+**⚡ MY APPROACH**
 
-<img src="https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark" />
+Learn by Building
 
+Experiment with Ideas
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
+Solve Real Problems
 
+Keep Improving
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+\</td> \</tr> \</table>
 
+\<div align="center">
 
+*"Understand the system. Build the solution."*
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-
-
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
-
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
-
-
+\</div>
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Developer Toolkit
 
-<div align="center">
+\<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhdsahil-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+*The technologies and tools I work with.*
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsahil-1&layout=compact&theme=tokyonight&hide_border=true" />
+\<br>
 
-<br><br>
+### `01` — Programming Languages
 
-<img width="70%" src="https://streak-stats.demolab.com?user=mhdsahil-1&theme=tokyonight&hide_border=true" />
+\<img src="[https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark](https://skillicons.dev/icons?i=java,python,php,js,ts\&theme=dark)" />
 
-</div>
+\<br>
 
----
+### `02` — Frontend Development
 
-## 🧭 What I'm Exploring
+\<img src="[https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark](https://skillicons.dev/icons?i=html,css,react,nextjs\&theme=dark)" />
 
-| Domain | Focus |
-|:---|:---|
-| Software Engineering | Building reliable applications |
-| Artificial Intelligence | ML and AI-powered solutions |
-| Backend Engineering | APIs, databases and system design |
-| Cybersecurity | Understanding systems and security |
+\<br>
 
----
+### `03` — Backend Development
 
-## 🤝 Connect With Me
+\<img src="[https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark](https://skillicons.dev/icons?i=nodejs,express,fastapi\&theme=dark)" />
 
-<div align="center">
+\<br>
 
-<a href="https://github.com/mhdsahil-1">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github"/>
-</a>
+### `04` — Databases
 
-<br><br>
+\<img src="[https://skillicons.dev/icons?i=mysql,postgres&theme=dark](https://skillicons.dev/icons?i=mysql,postgres\&theme=dark)" />
 
-**Have an interesting idea? Let's build something meaningful.**
+\<br>
 
-</div>
+### `05` — Tools & Platforms
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,vercel,postman\&theme=dark)" />
+
+\</div>
