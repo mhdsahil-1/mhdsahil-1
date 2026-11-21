@@ -33,33 +33,27 @@ philosophy: "Understand the system. Build the solution."
 
 ## ⚡ The Developer Toolkit
 
-<div align="center">
 
-### `01 / LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark" />
 
-### `02 / FRONTEND`
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
 
-### `03 / BACKEND`
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
-### `04 / DATABASES`
+
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-### `05 / AI & DATA`
 
 <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
 
-### `06 / TOOLS & PLATFORMS`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
 
-</div>
+
 
 ---
 
