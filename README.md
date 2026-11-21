@@ -1,171 +1,198 @@
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohammed%20Sahil%20B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%" />
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=3](https://capsule-render.vercel.app/api?type=rect\&color=0B1120\&height=3)" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+things+that+solve+problems.;Exploring+AI+%26+Software+Engineering.;Learning.+Experimenting.+Building." />
+\<br/>
 
-<br/>
+# MOHAMMED SAHIL B
 
-<a href="https://github.com/mhdsahil-1">
-<img src="https://komarev.com/ghpvc/?username=mhdsahil-1&style=flat-square&color=203A43&label=PROFILE+VIEWS" />
-</a>
+### SOFTWARE DEVELOPER & TECHNOLOGY ENTHUSIAST
 
-</div>
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=600&lines=Building+software+that+solves+problems.;Exploring+the+intersection+of+code+and+innovation.;Always+learning.+Always+building](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=400\&size=15\&duration=3000\&pause=1000\&color=8B9BB4\&center=true\&vCenter=true\&width=600\&lines=Building+software+that+solves+problems.;Exploring+the+intersection+of+code+and+innovation.;Always+learning.+Always+building)." />
 
----
+\<br/>
 
-## 👨‍💻 About Me
+\<a href="[https://github.com/mhdsahil-1](https://github.com/mhdsahil-1)">
+\<img src="[https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-181717?style=flat-square\&logo=github\&logoColor=white)" />
+\</a>
+&nbsp;
+\<img src="[https://komarev.com/ghpvc/?username=mhdsahil-1&style=flat-square&color=334155&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=mhdsahil-1\&style=flat-square\&color=334155\&label=PROFILE+VIEWS)" />
 
-<div align="center">
+\<br/>\<br/>
 
-### Mohammed Sahil B
-
-**Developer · Builder · Problem Solver**
-
-I enjoy turning ideas into working software, exploring how systems work, and building solutions to real-world problems.
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 🎯 WHAT I EXPLORE
-
-Software Engineering
-
-Artificial Intelligence
-
-Backend Development
-
-Cybersecurity
-
-</td>
-<td width="50%" align="center">
-
-### ⚡ HOW I WORK
-
-Learn by Building
-
-Experiment with Ideas
-
-Solve Real Problems
-
-Keep Improving
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-**"Understand the system. Build the solution."**
-
-</div>
+\</div>
 
 ---
 
-## ⚡ Developer Toolkit
+## 01 / ABOUT
 
-<div align="center">
+I'm Mohammed Sahil B, a developer interested in building software, understanding complex systems, and exploring emerging technologies.
 
-<p><i>Technologies, frameworks and tools I work with.</i></p>
+My interests span software engineering, backend development, artificial intelligence, and cybersecurity.
 
-<br/>
+I believe in learning through experimentation, building practical solutions, and continuously improving the way I approach engineering problems.
 
-### 01 / PROGRAMMING LANGUAGES
+\<br/>
 
-<img src="https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark" />
+\<table width="100%"> \<tr> \<td width="50%" valign="top">
 
-<br/><br/>
+**CURRENT INTERESTS**
 
-### 02 / FRONTEND DEVELOPMENT
+- Software Engineering
+- Artificial Intelligence
+- Backend Architecture
+- Cybersecurity
+- System Programming
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
+\</td> \<td width="50%" valign="top">
 
-<br/><br/>
+**ENGINEERING MINDSET**
 
-### 03 / BACKEND DEVELOPMENT
+- Think beyond the interface
+- Understand how systems work
+- Build before assuming
+- Focus on practical solutions
+- Keep learning and improving
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+\</td> \</tr> \</table>
 
-<br/><br/>
+\<div align="center">
 
-### 04 / DATABASES
+\<br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+*"Understand the system. Build the solution."*
 
-<br/><br/>
+\<br/>
 
-### 05 / AI & DATA SCIENCE
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<br/><br/>
-
-### 06 / TOOLS & PLATFORMS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
-
-</div>
+\</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 02 / TECHNOLOGY STACK
 
-<div align="center">
+\<div align="center">
 
-<a href="https://github.com/mhdsahil-1">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mhdsahil-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</a>
+\<p> \<sub>LANGUAGES\</sub> \</p>
 
-<a href="https://github.com/mhdsahil-1">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsahil-1&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+\<img src="[https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark](https://skillicons.dev/icons?i=java,python,php,js,ts\&theme=dark)" />
 
-<br/><br/>
+\<br/>\<br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mhdsahil-1&theme=tokyonight&hide_border=true" />
+\<p>
+\<sub>FRONTEND ENGINEERING\</sub>
+\</p>
 
-</div>
+\<img src="[https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark](https://skillicons.dev/icons?i=html,css,react,nextjs\&theme=dark)" />
+
+\<br/>\<br/>
+
+\<p>
+\<sub>BACKEND ENGINEERING\</sub>
+\</p>
+
+\<img src="[https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark](https://skillicons.dev/icons?i=nodejs,express,fastapi\&theme=dark)" />
+
+\<br/>\<br/>
+
+\<p> \<sub>DATABASE TECHNOLOGIES\</sub> \</p>
+
+\<img src="[https://skillicons.dev/icons?i=mysql,postgres&theme=dark](https://skillicons.dev/icons?i=mysql,postgres\&theme=dark)" />
+
+\<br/>\<br/>
+
+\<p>
+\<sub>AI & DATA SCIENCE\</sub>
+\</p>
+
+\<img src="[https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E](https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)" />
+\<img src="[https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=150458](https://img.shields.io/badge/Pandas-161B22?style=for-the-badge\&logo=pandas\&logoColor=150458)" />
+\<img src="[https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF](https://img.shields.io/badge/NumPy-161B22?style=for-the-badge\&logo=numpy\&logoColor=4DABCF)" />
+
+\<br/>\<br/>
+
+\<p>
+\<sub>DEVELOPER TOOLS & PLATFORMS\</sub>
+\</p>
+
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,vercel,postman\&theme=dark)" />
+
+\</div>
 
 ---
 
-## 🧭 Areas of Interest
+## 03 / ENGINEERING INTERESTS
 
-<div align="center">
+\<table width="100%">
+\<tr>
+\<td width="50%" valign="top">
 
-| DOMAIN | WHAT INTERESTS ME |
-|:---|:---|
-| 💻 Software Engineering | Reliable and scalable applications |
-| 🤖 Artificial Intelligence | Machine learning and AI-powered solutions |
-| ⚙️ Backend Engineering | APIs, databases and system design |
-| 🔐 Cybersecurity | System security and vulnerability research |
+### 01. Software Engineering
 
-</div>
+Building applications, writing maintainable code, and understanding software architecture.
+
+\</td>
+\<td width="50%" valign="top">
+
+### 02. Artificial Intelligence
+
+Exploring machine learning, intelligent applications, and practical AI implementations.
+
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
+
+### 03. Backend Systems
+
+Working with APIs, databases, application logic, and scalable backend architectures.
+
+\</td>
+\<td width="50%" valign="top">
+
+### 04. Cybersecurity
+
+Understanding system security, vulnerabilities, and the fundamentals of secure engineering.
+
+\</td>
+\</tr>
+\</table>
 
 ---
 
-## 🤝 Let's Connect
+## 04 / GITHUB ACTIVITY
 
-<div align="center">
+\<div align="center">
 
-<a href="https://github.com/mhdsahil-1">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
-</a>
+\<a href="[https://github.com/mhdsahil-1](https://github.com/mhdsahil-1)"> \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=mhdsahil-1&show_icons=true&theme=transparent&hide_border=true&title_color=8B9BB4&icon_color=8B9BB4&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=mhdsahil-1\&show_icons=true\&theme=transparent\&hide_border=true\&title_color=8B9BB4\&icon_color=8B9BB4\&text_color=C9D1D9\&rank_icon=github)" /> \</a>
 
-<br/><br/>
+\<a href="[https://github.com/mhdsahil-1](https://github.com/mhdsahil-1)"> \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsahil-1&layout=compact&theme=transparent&hide_border=true&title_color=8B9BB4&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsahil-1\&layout=compact\&theme=transparent\&hide_border=true\&title_color=8B9BB4\&text_color=C9D1D9)" /> \</a>
 
-**Have an interesting idea? Let's build something meaningful.**
+\<br/>\<br/>
 
-<br/>
+\<img width="85%" src="[https://streak-stats.demolab.com?user=mhdsahil-1&theme=transparent&hide_border=true&ring=8B9BB4&fire=8B9BB4&currStreakLabel=8B9BB4&sideLabels=8B9BB4&dates=8B9BB4](https://streak-stats.demolab.com?user=mhdsahil-1\&theme=transparent\&hide_border=true\&ring=8B9BB4\&fire=8B9BB4\&currStreakLabel=8B9BB4\&sideLabels=8B9BB4\&dates=8B9BB4)" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+\</div>
 
-</div>
+---
+
+## 05 / CONNECT
+
+\<div align="center">
+
+### Open to ideas. Interested in building meaningful things.
+
+\<br/>
+
+\<a href="[https://github.com/mhdsahil-1](https://github.com/mhdsahil-1)">
+\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+\</a>
+
+\<br/>\<br/>
+
+\<sub>LEARN · EXPERIMENT · BUILD · REPEAT\</sub>
+
+\<br/>\<br/>
+
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=3](https://capsule-render.vercel.app/api?type=rect\&color=0B1120\&height=3)" />
+
+\</div>
