@@ -1,198 +1,192 @@
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=3](https://capsule-render.vercel.app/api?type=rect\&color=0B1120\&height=3)" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=180&section=header&text=MOHAMMED%20SAHIL%20B&fontSize=38&fontColor=E2E8F0&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20BUILDER%20%7C%20PROBLEM%20SOLVER&descSize=13&descAlignY=60" />
 
-\<br/>
+<br/>
 
-# MOHAMMED SAHIL B
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+software+that+solves+problems.;Exploring+AI+and+Software+Engineering.;Learning.+Experimenting.+Building." />
 
-### SOFTWARE DEVELOPER & TECHNOLOGY ENTHUSIAST
+<br/><br/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=600&lines=Building+software+that+solves+problems.;Exploring+the+intersection+of+code+and+innovation.;Always+learning.+Always+building](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=400\&size=15\&duration=3000\&pause=1000\&color=8B9BB4\&center=true\&vCenter=true\&width=600\&lines=Building+software+that+solves+problems.;Exploring+the+intersection+of+code+and+innovation.;Always+learning.+Always+building)." />
+<a href="https://github.com/mhdsahil-1">
+<img src="https://img.shields.io/badge/GitHub-mhdsahil--1-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-\<br/>
+<img src="https://komarev.com/ghpvc/?username=mhdsahil-1&style=for-the-badge&color=334155&label=PROFILE+VIEWS" />
 
-\<a href="[https://github.com/mhdsahil-1](https://github.com/mhdsahil-1)">
-\<img src="[https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-181717?style=flat-square\&logo=github\&logoColor=white)" />
-\</a>
-&nbsp;
-\<img src="[https://komarev.com/ghpvc/?username=mhdsahil-1&style=flat-square&color=334155&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=mhdsahil-1\&style=flat-square\&color=334155\&label=PROFILE+VIEWS)" />
-
-\<br/>\<br/>
-
-\</div>
+</div>
 
 ---
 
-## 01 / ABOUT
+## 01. About Me
 
-I'm Mohammed Sahil B, a developer interested in building software, understanding complex systems, and exploring emerging technologies.
+<div align="center">
 
-My interests span software engineering, backend development, artificial intelligence, and cybersecurity.
+### Developer. Builder. Lifelong Learner.
 
-I believe in learning through experimentation, building practical solutions, and continuously improving the way I approach engineering problems.
+</div>
 
-\<br/>
+I'm **Mohammed Sahil B**, a developer interested in building practical software, understanding complex systems, and exploring emerging technologies.
 
-\<table width="100%"> \<tr> \<td width="50%" valign="top">
+I enjoy working across different areas of technology, from web development and backend engineering to artificial intelligence and cybersecurity.
 
-**CURRENT INTERESTS**
+My approach is simple: learn by building, experiment with ideas, and focus on solving real-world problems.
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### AREAS OF INTEREST
 
 - Software Engineering
 - Artificial Intelligence
-- Backend Architecture
+- Backend Development
 - Cybersecurity
 - System Programming
 
-\</td> \<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-**ENGINEERING MINDSET**
+### ENGINEERING MINDSET
 
 - Think beyond the interface
 - Understand how systems work
-- Build before assuming
-- Focus on practical solutions
-- Keep learning and improving
+- Learn through experimentation
+- Build practical solutions
+- Continuously improve
 
-\</td> \</tr> \</table>
+</td>
+</tr>
+</table>
 
-\<div align="center">
+<div align="center">
 
-\<br/>
+<br/>
 
 *"Understand the system. Build the solution."*
 
-\<br/>
-
-\</div>
+</div>
 
 ---
 
-## 02 / TECHNOLOGY STACK
+## 02. Technology Stack
 
-\<div align="center">
+<div align="center">
 
-\<p> \<sub>LANGUAGES\</sub> \</p>
+<p><strong>PROGRAMMING LANGUAGES</strong></p>
+<img src="https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark" />
 
-\<img src="[https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark](https://skillicons.dev/icons?i=java,python,php,js,ts\&theme=dark)" />
+<br/><br/>
 
-\<br/>\<br/>
+<p><strong>FRONTEND DEVELOPMENT</strong></p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
 
-\<p>
-\<sub>FRONTEND ENGINEERING\</sub>
-\</p>
+<br/><br/>
 
-\<img src="[https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark](https://skillicons.dev/icons?i=html,css,react,nextjs\&theme=dark)" />
+<p><strong>BACKEND DEVELOPMENT</strong></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
-\<br/>\<br/>
+<br/><br/>
 
-\<p>
-\<sub>BACKEND ENGINEERING\</sub>
-\</p>
+<p><strong>DATABASES</strong></p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-\<img src="[https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark](https://skillicons.dev/icons?i=nodejs,express,fastapi\&theme=dark)" />
+<br/><br/>
 
-\<br/>\<br/>
+<p><strong>AI & DATA SCIENCE</strong></p>
 
-\<p> \<sub>DATABASE TECHNOLOGIES\</sub> \</p>
+<img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
 
-\<img src="[https://skillicons.dev/icons?i=mysql,postgres&theme=dark](https://skillicons.dev/icons?i=mysql,postgres\&theme=dark)" />
+<br/><br/>
 
-\<br/>\<br/>
+<p><strong>TOOLS & PLATFORMS</strong></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
 
-\<p>
-\<sub>AI & DATA SCIENCE\</sub>
-\</p>
-
-\<img src="[https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E](https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)" />
-\<img src="[https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=150458](https://img.shields.io/badge/Pandas-161B22?style=for-the-badge\&logo=pandas\&logoColor=150458)" />
-\<img src="[https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF](https://img.shields.io/badge/NumPy-161B22?style=for-the-badge\&logo=numpy\&logoColor=4DABCF)" />
-
-\<br/>\<br/>
-
-\<p>
-\<sub>DEVELOPER TOOLS & PLATFORMS\</sub>
-\</p>
-
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,vercel,postman\&theme=dark)" />
-
-\</div>
+</div>
 
 ---
 
-## 03 / ENGINEERING INTERESTS
+## 03. What I'm Exploring
 
-\<table width="100%">
-\<tr>
-\<td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 01. Software Engineering
+### 01 / Software Engineering
 
 Building applications, writing maintainable code, and understanding software architecture.
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 02. Artificial Intelligence
+### 02 / Artificial Intelligence
 
-Exploring machine learning, intelligent applications, and practical AI implementations.
+Exploring machine learning and practical AI-powered applications.
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 03. Backend Systems
+### 03 / Backend Engineering
 
-Working with APIs, databases, application logic, and scalable backend architectures.
+Working with APIs, databases, application logic, and system design.
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 04. Cybersecurity
+### 04 / Cybersecurity
 
-Understanding system security, vulnerabilities, and the fundamentals of secure engineering.
+Exploring system security, vulnerabilities, and secure engineering.
 
-\</td>
-\</tr>
-\</table>
-
----
-
-## 04 / GITHUB ACTIVITY
-
-\<div align="center">
-
-\<a href="[https://github.com/mhdsahil-1](https://github.com/mhdsahil-1)"> \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=mhdsahil-1&show_icons=true&theme=transparent&hide_border=true&title_color=8B9BB4&icon_color=8B9BB4&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=mhdsahil-1\&show_icons=true\&theme=transparent\&hide_border=true\&title_color=8B9BB4\&icon_color=8B9BB4\&text_color=C9D1D9\&rank_icon=github)" /> \</a>
-
-\<a href="[https://github.com/mhdsahil-1](https://github.com/mhdsahil-1)"> \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsahil-1&layout=compact&theme=transparent&hide_border=true&title_color=8B9BB4&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsahil-1\&layout=compact\&theme=transparent\&hide_border=true\&title_color=8B9BB4\&text_color=C9D1D9)" /> \</a>
-
-\<br/>\<br/>
-
-\<img width="85%" src="[https://streak-stats.demolab.com?user=mhdsahil-1&theme=transparent&hide_border=true&ring=8B9BB4&fire=8B9BB4&currStreakLabel=8B9BB4&sideLabels=8B9BB4&dates=8B9BB4](https://streak-stats.demolab.com?user=mhdsahil-1\&theme=transparent\&hide_border=true\&ring=8B9BB4\&fire=8B9BB4\&currStreakLabel=8B9BB4\&sideLabels=8B9BB4\&dates=8B9BB4)" />
-
-\</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 05 / CONNECT
+## 04. GitHub Statistics
 
-\<div align="center">
+<div align="center">
 
-### Open to ideas. Interested in building meaningful things.
+<a href="https://github.com/mhdsahil-1">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mhdsahil-1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</a>
 
-\<br/>
+<a href="https://github.com/mhdsahil-1">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdsahil-1&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
-\<a href="[https://github.com/mhdsahil-1](https://github.com/mhdsahil-1)">
-\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
+<br/><br/>
 
-\<br/>\<br/>
+<img width="80%" src="https://streak-stats.demolab.com?user=mhdsahil-1&theme=tokyonight&hide_border=true" />
 
-\<sub>LEARN · EXPERIMENT · BUILD · REPEAT\</sub>
+</div>
 
-\<br/>\<br/>
+---
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&color=0B1120&height=3](https://capsule-render.vercel.app/api?type=rect\&color=0B1120\&height=3)" />
+## 05. Let's Connect
 
-\</div>
+<div align="center">
+
+### Interested in technology, ideas and building meaningful things.
+
+<br/>
+
+<a href="https://github.com/mhdsahil-1">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**LEARN &nbsp; · &nbsp; EXPERIMENT &nbsp; · &nbsp; BUILD &nbsp; · &nbsp; REPEAT**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1120&height=100&section=footer" />
+
+</div>
