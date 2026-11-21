@@ -71,19 +71,9 @@ My approach is simple: learn by building, experiment with ideas, and focus on so
 
 ---
 
-## 02. Technology Stack
-
-<div align="center">
-
-<p><strong>PROGRAMMING LANGUAGES</strong></p>
+## Tech Stack
 <img src="https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark" />
-
-<br/><br/>
-
-<p><strong>FRONTEND DEVELOPMENT</strong></p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
-
-<br/><br/>
 
 <p><strong>BACKEND DEVELOPMENT</strong></p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
