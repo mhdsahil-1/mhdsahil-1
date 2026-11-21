@@ -18,7 +18,7 @@
 
 ---
 
-## 01. About Me
+## About Me
 
 <div align="center">
 
@@ -72,35 +72,12 @@ My approach is simple: learn by building, experiment with ideas, and focus on so
 ---
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark" />
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
-
-<p><strong>BACKEND DEVELOPMENT</strong></p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
-
-<br/><br/>
-
-<p><strong>DATABASES</strong></p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-
-<br/><br/>
-
-<p><strong>AI & DATA SCIENCE</strong></p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
-
-<br/><br/>
-
-<p><strong>TOOLS & PLATFORMS</strong></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=java,python,php,js,ts&theme=dark" /><img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" /><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" /><img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" /><img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF" /><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
 
 ---
 
-## 03. What I'm Exploring
+##  What I'm Exploring
 
 <table width="100%">
 <tr>
